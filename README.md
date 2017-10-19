@@ -6,9 +6,6 @@
 ### GeoJson data
 `kapusons-ui-map` comes with two json libraries for italy regions and for all the world's states until 2015.
 
-### GeoJson data
-`kapusons-ui-map` comes with two json libraries for italy regions and for all the world's states until 2015.
-
 ## Installation
 
 ```
