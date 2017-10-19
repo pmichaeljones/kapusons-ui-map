@@ -185,7 +185,7 @@ function initMap() {
 
   // Load the GeoJSON manually (works cross-origin since google sets the required HTTP headers)
   $.getJSON(configuration.dataSource, function (data) {
-  	map.data.addGeoJson(data, { idPropertyName: 'id' });
+  	map.data.addGeoJson(data, { idPropertyName: 'name' });
   }); 
 
   styleFeaturedMap();
