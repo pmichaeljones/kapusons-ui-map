@@ -1,0 +1,28 @@
+{
+  "name": "kapusons-ui-map",
+  "description": "Kapusons implementation of interactive maps through GeoJson data",
+  "main": [
+    "dist/kapusons-ui-map.js",
+    "dist/kapusons-ui-map.css"
+  ],
+  "authors": [
+    "lazymood <gianlucalavezzo@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.github.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.sublime-project",
+    "*.sublime-workspace"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "font-awesome": "^4.7.0",
+    "animate.css": "^3.5.2"
+  }
+}

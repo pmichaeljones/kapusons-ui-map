@@ -1,0 +1,14 @@
+$red: #d63b30;
+$orange: #f0ad4e;
+$linkcolor: #0066cc;
+$gray: #464a4c;
+$blu: #4285F4;
+$darkblu: #3367D6;
+$lightblu: lighten($blu, 15%);
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
+@import "bower_components/font-awesome/scss/font-awesome";
+@import "bower_components/animate.css/animate";
+@import "node_modules/perfect-scrollbar/css/perfect-scrollbar";
+@import "application";

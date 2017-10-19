@@ -1,0 +1,9 @@
+.DS_Store
+tmp
+.sass-cache
+node_modules
+bower_components
+*.sublime-project
+*.sublime-workspace
+.ruby-version
+.bundle
