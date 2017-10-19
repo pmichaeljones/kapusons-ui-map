@@ -4,7 +4,10 @@
 ## Features
 
 ### GeoJson data
-`kapusons-ui-map` comes with two json libraries for italy regions and for all the states of the world until 2015.
+`kapusons-ui-map` comes with two json libraries for italy regions and for all the world's states until 2015.
+
+### GeoJson data
+`kapusons-ui-map` comes with two json libraries for italy regions and for all the world's states until 2015.
 
 ## Installation
 
@@ -23,3 +26,5 @@ MIT (http://www.opensource.org/licenses/mit-license.php)
 
 * Improve mobile visualization
 * Replace google maps infowindow component with a custom one
+* Improve the configuration
+* Improve the documentation

@@ -9,8 +9,12 @@
     "lazymood <gianlucalavezzo@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "https://www.github.com",
-  "private": true,
+  "homepage": "https://github.com/KapusonsSRL/kapusons-ui-map",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KapusonsSRL/kapusons-ui-map.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
