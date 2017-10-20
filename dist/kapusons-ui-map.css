@@ -4279,7 +4279,7 @@ a {
 
 /* line 40, src/scss/_application.scss */
 .scheda-trigger {
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   text-transform: uppercase;
   font-weight: 400;
   display: block; }
@@ -4559,11 +4559,8 @@ a {
     /* line 350, src/scss/_application.scss */
     .gm-style-iw .infowindow .info > div.info-settore {
       display: none !important; } }
-  /* line 355, src/scss/_application.scss */
-  .gm-style-iw .infowindow .scheda-trigger {
-    font-size: 14px; }
 
-/* line 361, src/scss/_application.scss */
+/* line 358, src/scss/_application.scss */
 .infowindow {
   font-size: 0.9rem;
   width: 280px;
@@ -4571,13 +4568,13 @@ a {
   padding-bottom: 0.6rem;
   padding-top: 0.6rem;
   color: #000; }
-  /* line 369, src/scss/_application.scss */
+  /* line 366, src/scss/_application.scss */
   .infowindow div {
     color: #000; }
-  /* line 373, src/scss/_application.scss */
+  /* line 370, src/scss/_application.scss */
   .infowindow .info-title {
     padding: 10px 0; }
-  /* line 377, src/scss/_application.scss */
+  /* line 374, src/scss/_application.scss */
   .infowindow h3 {
     color: #000;
     font-size: 1.1em;
@@ -4586,7 +4583,7 @@ a {
     margin-bottom: 0;
     margin-top: 0px; }
 
-/* line 390, src/scss/_application.scss */
+/* line 387, src/scss/_application.scss */
 .info .label {
   display: table-cell;
   color: #999;
@@ -4594,24 +4591,24 @@ a {
   padding-right: 5px;
   margin-bottom: 2px; }
 
-/* line 398, src/scss/_application.scss */
+/* line 395, src/scss/_application.scss */
 .info .label + span {
   display: table-cell;
   color: #000; }
 
 @media (max-width: 550px) {
-  /* line 409, src/scss/_application.scss */
+  /* line 406, src/scss/_application.scss */
   .gm-style-iw .infowindow .info > div.info-settore {
     display: none !important; } }
 
-/* line 417, src/scss/_application.scss */
+/* line 414, src/scss/_application.scss */
 .ps__rail-y {
   z-index: 1; }
-  /* line 420, src/scss/_application.scss */
+  /* line 417, src/scss/_application.scss */
   .ps__rail-y + .infowindow {
     border-top: 0; }
 
-/* line 425, src/scss/_application.scss */
+/* line 422, src/scss/_application.scss */
 #map-region-detail {
   display: none;
   position: absolute;
@@ -4624,16 +4621,16 @@ a {
   padding: 2rem 0;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); }
   @media (max-width: 1100px) {
-    /* line 425, src/scss/_application.scss */
+    /* line 422, src/scss/_application.scss */
     #map-region-detail {
       left: 390px; } }
   @media (max-width: 991px) {
-    /* line 425, src/scss/_application.scss */
+    /* line 422, src/scss/_application.scss */
     #map-region-detail {
       left: 0;
       top: 111px;
       width: 100%; } }
-  /* line 447, src/scss/_application.scss */
+  /* line 444, src/scss/_application.scss */
   #map-region-detail .map-region-detail-body {
     overflow: hidden;
     position: relative;
@@ -4641,13 +4638,13 @@ a {
     padding-bottom: 2rem;
     box-sizing: border-box; }
     @media (max-width: 991px) {
-      /* line 447, src/scss/_application.scss */
+      /* line 444, src/scss/_application.scss */
       #map-region-detail .map-region-detail-body {
         font-size: 0.85rem; } }
-  /* line 461, src/scss/_application.scss */
+  /* line 458, src/scss/_application.scss */
   #map-region-detail div, #map-region-detail p {
     font-family: inherit; }
-  /* line 465, src/scss/_application.scss */
+  /* line 462, src/scss/_application.scss */
   #map-region-detail h3 {
     position: relative;
     margin: -2rem 0rem 0rem 0rem;
@@ -4659,31 +4656,31 @@ a {
     color: #fff;
     border-bottom: 1px solid #206ff2; }
     @media (max-width: 991px) {
-      /* line 465, src/scss/_application.scss */
+      /* line 462, src/scss/_application.scss */
       #map-region-detail h3 {
         font-size: 1.1rem;
         padding: 1rem;
         padding-right: 3.8rem;
         line-height: 1.3rem; } }
-    /* line 483, src/scss/_application.scss */
+    /* line 480, src/scss/_application.scss */
     #map-region-detail h3 small {
       display: block;
       margin-top: 5px;
       color: #8ab4f8;
       font-size: 1.2rem; }
       @media (max-width: 991px) {
-        /* line 483, src/scss/_application.scss */
+        /* line 480, src/scss/_application.scss */
         #map-region-detail h3 small {
           font-size: 0.9rem; } }
-  /* line 495, src/scss/_application.scss */
+  /* line 492, src/scss/_application.scss */
   #map-region-detail .description {
     margin: 2rem 0; }
-    /* line 497, src/scss/_application.scss */
+    /* line 494, src/scss/_application.scss */
     #map-region-detail .description img {
       float: left;
       margin-right: 1rem;
       margin-bottom: 5px;
       max-width: 130px; }
-  /* line 505, src/scss/_application.scss */
+  /* line 502, src/scss/_application.scss */
   #map-region-detail .info .label {
     width: 100px; }
