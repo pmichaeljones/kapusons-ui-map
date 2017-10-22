@@ -8,11 +8,19 @@
 
 ## Installation
 
+### Setup development environment
+
 ```
 git clone git@github.com:KapusonsSRL/kapusons-ui-map.git
 npm install
 bower install
 gulp serve
+```
+
+### As a Bower package
+
+```
+bower install kapusons-ui-map --save
 ```
 
 ## License
