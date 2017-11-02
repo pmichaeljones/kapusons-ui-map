@@ -74,6 +74,7 @@ gulp.task('serve', function() {
   browserSync(Object.assign({}, {
     notify: false,
     logPrefix: 'BrowserSync',
+    port: process.env.PORT || 5000,
     'server': ['./dist/']
   }, {}));
 
