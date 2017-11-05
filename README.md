@@ -26,13 +26,13 @@ bower install kapusons-ui-map --save
 ## Implementation
 
 ### Usage
-  * Javascript file loads in GeoJSON data consisting of polygon coordinates, markers (items), and supplmentary information 
-  * Canvas highlights region and activates an information window (map-tail) when mouse coordinates are inside regional polygon
-  * Clicking on a specific region opens an information window that shows the GeoJSON items. Further clicking leads to more informational windows.
+  * Application.js file loads GeoJSON data consisting of polygon coordinates, markers (items), and supplmentary information.
+  * Map canvas highlights the region and activates an informational window (map-tail) when the mouse coordinates are inside the region's polygon.
+  * Clicking on a specific region opens an informational window that shows the GeoJSON items. Further clicking leads to more informational windows.
 
 
 ### Heroku-Hosted Example Application
-[Kapusons Google Maps Hosted on Heroku](https://kapusons-ui-map.herokuapp.com/)
+[Google Maps GeoJSON Implementation by Kapusons](https://kapusons-ui-map.herokuapp.com/)
 
 ## License
 
