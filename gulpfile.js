@@ -14,7 +14,10 @@ var configuration = {
   basename: 'kapusons-ui-map',
   paths: {
     src: {
-      html: './src/html/*.html',
+      html: [
+      './src/html/*.html',
+      './src/html/region-detail/*.html'
+      ],
       img: './src/img/**/*',
       scss: [
         './src/scss/**/*.scss'
